@@ -9,12 +9,13 @@ fun main() {
   val character: Char = 'a'
 
   // Can be combined:
-  TODO() // write some examples
+  val combinedToDouble: Double = int + double
+
 
   println("The type that can be combined " +
     "with every other type using '+':")
-  println("???")
+  println("combinedToDouble: $combinedToDouble")
 
   // Can't be combined:
-  TODO() // write some examples
+
 }
