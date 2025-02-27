@@ -1,4 +1,8 @@
-tTaskKt
+Kt
+
+booleansExercise3TaskKt
+"
+booleansExercise4FooKtTaskKt
 #
 breakAndContinueExercise1TaskKt
 #
@@ -820,11 +824,8 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     eviceMembersKt
-P
-inheritanceextensions2ComposeAdapterKtDeviceExtensionsKtExtensionFuncsKt
-
-innerClassesExercise1TaskKt
+UnSealedKt" *      withoutsealedclasses
+UnSealedKt" *     innerClassesExercise1TaskKt
 
 innerClassesExercise2TaskKt
 
