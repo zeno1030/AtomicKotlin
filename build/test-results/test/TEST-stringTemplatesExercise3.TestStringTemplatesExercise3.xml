@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stringTemplatesExercise3.TestStringTemplatesExercise3" tests="1" skipped="0" failures="1" errors="0" timestamp="2025-03-02T02:45:14" hostname="gwonjihwan-ui-Macmini.local" time="0.089">
+  <properties/>
+  <testcase name="testShow" classname="stringTemplatesExercise3.TestStringTemplatesExercise3" time="0.089">
+    <failure message="org.junit.ComparisonFailure: Incorrect output for 'show' function call expected:&lt;[i: 1&#10;s: &quot;abc&quot;&#10;c: 'd'&#10;d: 2.0]&gt; but was:&lt;[]&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: Incorrect output for 'show' function call expected:&lt;[i: 1
+s: &quot;abc&quot;
+c: 'd'
+d: 2.0]&gt; but was:&lt;[]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at util.UtilKt.checkSystemOutput(util.kt:57)
+	at stringTemplatesExercise3.TestStringTemplatesExercise3.testArguments(Tests.kt:46)
+	at stringTemplatesExercise3.TestStringTemplatesExercise3.testShow(Tests.kt:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:299)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:293)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
